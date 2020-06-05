@@ -1,2 +1,2 @@
-# jerome818.github.io
+# decodejerome.github.io
 personal blog
