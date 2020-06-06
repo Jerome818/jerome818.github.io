@@ -1,2 +1,1 @@
-#jerome818.github.io
-personal blog
+#Reading, teaching, and learning 
