@@ -138,6 +138,7 @@
 | **ei** | **receive** | **leister** | **seize**   | **height**   | **eight**   |
 | **ea** | **read**    | **tea**     | **meat**    | **sea**      | **pea**     |
 | **ee** | **bee**     | **beet**    | **tree**    | **feet**     | **green**   |
+| **eo** | **leo**     | **leopard** | **theory**  | **people**   | **jeopardize** |
 | **eu** | **euro**    | **feudal**  | **neutral** | **eulogy**   | **eugenic** |
 | **ie** | **pie**     | **tie**     | **lie**     | **die**      | **fie**     |
 | **oe** | **toe**     | **hoe**     | **oboe**    | **woe**      | **aloe**    |
