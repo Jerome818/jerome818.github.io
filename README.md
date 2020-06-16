@@ -1,1 +1,1 @@
-#Reading, teaching, and learning 
+#Teach and learn 
